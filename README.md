@@ -1,7 +1,7 @@
 # Icon-And-Image-Resize-Service
 This browser-based service resizes icons and images. This utility targets OS, Android, and Windows mobile apps; Chrome, Firefox, and Safari extensions; macOS and Windows desktop apps; and other common software products where it's necessary to generate app icons of different sizes or generate different resolutions of the same images.
 
-This free service is hosted at [Hotpot.ai](https://hotpot.ai/icon_resizer) for people who don't want to host or maintain code.
+This free service is hosted at [Hotpot.ai](https://hotpot.ai/icon-resizer) for people who don't want to host or maintain code.
 
 [Hotpot.ai](https://hotpot.ai) helps developers and entrepreneurs create graphics for their apps, extensions, and side projects.
 
